@@ -1,0 +1,11 @@
+/home/elijahgartin/Source/Interview-Challenges/2D-Array-Negative-Integers/obj/Debug/netcoreapp2.2/2D-Array-Negative-Integers.csprojAssemblyReference.cache
+/home/elijahgartin/Source/Interview-Challenges/2D-Array-Negative-Integers/obj/Debug/netcoreapp2.2/2D-Array-Negative-Integers.csproj.CoreCompileInputs.cache
+/home/elijahgartin/Source/Interview-Challenges/2D-Array-Negative-Integers/obj/Debug/netcoreapp2.2/2D-Array-Negative-Integers.AssemblyInfoInputs.cache
+/home/elijahgartin/Source/Interview-Challenges/2D-Array-Negative-Integers/obj/Debug/netcoreapp2.2/2D-Array-Negative-Integers.AssemblyInfo.cs
+/home/elijahgartin/Source/Interview-Challenges/2D-Array-Negative-Integers/bin/Debug/netcoreapp2.2/2D-Array-Negative-Integers.deps.json
+/home/elijahgartin/Source/Interview-Challenges/2D-Array-Negative-Integers/bin/Debug/netcoreapp2.2/2D-Array-Negative-Integers.runtimeconfig.json
+/home/elijahgartin/Source/Interview-Challenges/2D-Array-Negative-Integers/bin/Debug/netcoreapp2.2/2D-Array-Negative-Integers.runtimeconfig.dev.json
+/home/elijahgartin/Source/Interview-Challenges/2D-Array-Negative-Integers/bin/Debug/netcoreapp2.2/2D-Array-Negative-Integers.dll
+/home/elijahgartin/Source/Interview-Challenges/2D-Array-Negative-Integers/bin/Debug/netcoreapp2.2/2D-Array-Negative-Integers.pdb
+/home/elijahgartin/Source/Interview-Challenges/2D-Array-Negative-Integers/obj/Debug/netcoreapp2.2/2D-Array-Negative-Integers.dll
+/home/elijahgartin/Source/Interview-Challenges/2D-Array-Negative-Integers/obj/Debug/netcoreapp2.2/2D-Array-Negative-Integers.pdb
